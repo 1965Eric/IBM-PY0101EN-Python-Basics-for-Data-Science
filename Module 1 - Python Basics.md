@@ -122,3 +122,17 @@ the value of the variable will change.
 The final result values change accordingly, but
 we do not have to modify the rest of the code.
 
+## Practice Quiz: Expressions and Variables
+
+Question 1: What is the result of the following operation: 11//2
+- A. [X] 5
+- B. [ ] 5.5
+
+Question 2: What is the value of x after the following is run:
+
+x=4
+
+x=x/2
+
+- A. [ ] 4.0
+- B. [X] 2.0
