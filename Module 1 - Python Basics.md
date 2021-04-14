@@ -46,3 +46,20 @@ If you cast a 1 to a Boolean, you get a True.
 Similarly, if you cast a 0 to a Boolean, you get a False.
 Check the labs for more examples or
 check Python.org for other kinds of types in Python.
+
+**Practice Quiz: Types**
+
+Question 1: What is the type of the following: 0
+- A. [X] Int
+- B. [ ] float
+
+Question 2: What is the type of the following number: 3.12323
+- A. [ ] Int
+- B. [X] Float
+
+Question 3: What is the result of the following: int(3.99)
+- A. [ ] 3.99
+- B. [X] 3
+
+**Expressions and Variables:**
+
