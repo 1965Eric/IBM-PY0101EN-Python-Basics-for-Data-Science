@@ -1,4 +1,4 @@
-**Types:**
+# Types:
 
 A type is how Python represents different types of data.
 In this video, we will discuss some widely used types in Python.
@@ -47,7 +47,7 @@ Similarly, if you cast a 0 to a Boolean, you get a False.
 Check the labs for more examples or
 check Python.org for other kinds of types in Python.
 
-**Practice Quiz: Types**
+## Practice Quiz: Types
 
 Question 1: What is the type of the following: 0
 - A. [X] Int
@@ -61,5 +61,5 @@ Question 3: What is the result of the following: int(3.99)
 - A. [ ] 3.99
 - B. [X] 3
 
-**Expressions and Variables:**
+# Expressions and Variables:
 
