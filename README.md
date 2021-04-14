@@ -1,2 +1,2 @@
-# IBM-Python-Basics-for-Data-Science
+# IBM Python Basics for Data Science
 Python Basics for Data Science
