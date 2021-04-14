@@ -131,7 +131,6 @@ Question 1: What is the result of the following operation: 11//2
 Question 2: What is the value of x after the following is run:
 
 x=4
-
 x=x/2
 
 - A. [ ] 4.0
