@@ -35,3 +35,5 @@ In this course you will learn about:
 * The purpose of having **functions** in Python
 * How to operate on files to **read and write data** in Python
 * How to use **pandas**, a must have package for anyone attempting data analysis in Python
+
+You can also find my notebooks on [Github Gist](https://gist.github.com/1965Eric)
