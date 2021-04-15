@@ -213,4 +213,6 @@ If the substring is not in the string,
 the output is negative one.
 Check the labs for more examples.
 
+## Practice Quiz: String Operations
 
+![String_Operations_Practice_Quiz_Q1](https://user-images.githubusercontent.com/17474099/114864202-fe5aaf80-9df0-11eb-9fdb-c46a627bd889.png)
