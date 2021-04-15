@@ -49,17 +49,17 @@ check Python.org for other kinds of types in Python.
 
 ## Practice Quiz: Types
 
-Question 1: What is the type of the following: 0
+Question 1: What is the type of the following: ```0```
 - A. [X] Int
 - B. [ ] float
 
-Question 2: What is the type of the following number: 3.12323
+Question 2: What is the type of the following number: ```3.12323```
 - A. [ ] Int
 - B. [X] Float
 
-Question 3: What is the result of the following: int(3.99)
-- A. [ ] 3.99
-- B. [X] 3
+Question 3: What is the result of the following: ```int(3.99)```
+- A. [ ] ```3.99```
+- B. [X] ```3```
 
 # Expressions and Variables:
 
@@ -124,9 +124,9 @@ we do not have to modify the rest of the code.
 
 ## Practice Quiz: Expressions and Variables
 
-Question 1: What is the result of the following operation: 11//2
-- A. [X] 5
-- B. [ ] 5.5
+Question 1: What is the result of the following operation: ```11//2```
+- A. [X] ```5```
+- B. [ ] ```5.5```
 
 Question 2: What is the value of x after the following is run:
 
@@ -135,8 +135,8 @@ x=4
 x=x/2
 ```
 
-- A. [ ] 4.0
-- B. [X] 2.0
+- A. [ ] ```4.0```
+- B. [X] ```2.0```
 
 # String Operations:
 
@@ -215,4 +215,56 @@ Check the labs for more examples.
 
 ## Practice Quiz: String Operations
 
+Question 1: What is the result of the following: ```Name[0]```
+
 ![String_Operations_Practice_Quiz_Q1](https://user-images.githubusercontent.com/17474099/114864202-fe5aaf80-9df0-11eb-9fdb-c46a627bd889.png)
+
+- A. [ ] ```"i"```
+- B. [X] ```"M"```
+- C. [ ] ```"n"```
+
+Question 2: What is the result of the following: ```Name[-1]```
+
+- A. [ ] ```"o"```
+- B. [ ] ```"M"```
+- C. [X] ```"n"```
+
+
+Question 3: What is the output of the following: ```print("AB\nC\nDE")```
+
+- A. [ ] 
+
+```
+AB
+
+CD
+
+E
+```
+
+- B. [ ] 
+
+```
+ABC
+
+DE
+```
+
+- C. [X]
+
+```
+AB
+
+C
+
+DE
+```
+
+Question 4: What is the result of following? ```"hello Mike".find("Mike")```
+
+If you are unsure, copy and paste the code into Jupyter Notebook and check.
+
+- A. [ ] ```5```
+- B. [X] ```6```
+- C. [ ] ```6,7,8```
+
