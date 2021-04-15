@@ -279,3 +279,31 @@ If you are unsure, copy and paste the code into Jupyter Notebook and check.
 - B. [X] ```6```
 - C. [ ] ```6,7,8```
 
+## Graded Quiz: Python Basics
+
+Question 1: What is the type of the following: ```1```
+
+- A. [X] int
+- B. [ ] float
+- C. [ ] str
+
+Question 2: What is the result of the following code segment: ```1//2```?
+
+- A. [X] ```0```
+- B. [ ] ```0.5```
+
+Question 3: In Python, if you executed ```name = 'Lizz'``` , what would be the output of ```print(name[0:2])``` ?
+
+- A. [X] ```Li```
+- B. [ ] ```L```
+- C. [ ] ```Lizz```
+
+Question 4: Consider the string ```Name="Michael Jackson"``` , what is the result of the following operation ```Name.find('el')``` ?
+
+- A. [ ] ```-1```
+- B. [ ] ```1```
+- C. [X] ```5```
+
+Question 5: What is the result of the following: ```"123".replace("12", "ab")``` ?
+- A. [X] ```'ab3'```
+- B. [ ] ```'123ab'```
