@@ -67,5 +67,19 @@ Question 7: What is the result of the following: ```"Hello Mike".split()```
 
 [Dictionaries](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-2-4-Dictionaries.ipynb)
 
+## Practice Quiz: Dictionaries
 
+Question 1: What are the keys of the following dictionary: ```{"a":1,"b":2}```
 
+- A. [ ] ```1,2```
+- B. [X] ```"a","b"```
+
+Question 2: Consider the following Python Dictionary: ```Dict={"A":1,"B":"2","C":[3,3,3],"D":(4,4,4),'E':5,'F':6}``` What is the result of the following operation: ```Dict["D"]```
+
+- A. [ ] ```[3,3,3]```
+- B. [X] ```(4, 4, 4)```
+- C. [ ] ```1```
+
+# Sets
+
+[Sets]
