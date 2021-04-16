@@ -65,5 +65,7 @@ Question 7: What is the result of the following: ```"Hello Mike".split()```
 
 # Dictionaries
 
-[Dictionaries]
+[Dictionaries](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-2-4-Dictionaries.ipynb)
+
+
 
