@@ -15,3 +15,7 @@ In this lesson you will:
 # Lists and Tuples
 
 [Lists](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-2-2-Lists.ipynb)
+
+[Tuples](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-2-1-Tuples.ipynb)
+
+
