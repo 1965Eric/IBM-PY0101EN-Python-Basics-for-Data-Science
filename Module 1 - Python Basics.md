@@ -11,7 +11,7 @@ In this lesson, you will learn the basics of Python and you will write your firs
 
 # Types:
 
-[Your First Program, Types, Expressions, and Variables](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-1-1-Write_your_first_python_code.ipynb){target="_blank"}
+[Your First Program, Types, Expressions, and Variables](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-1-1-Write_your_first_python_code.ipynb)
 
 ## Practice Quiz: Types
 
@@ -29,7 +29,7 @@ Question 3: What is the result of the following: ```int(3.99)```
 
 # Expressions and Variables:
 
-[Your First Program, Types, Expressions, and Variables](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-1-1-Write_your_first_python_code.ipynb){target="_blank"}
+[Your First Program, Types, Expressions, and Variables](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-1-1-Write_your_first_python_code.ipynb)
 
 ## Practice Quiz: Expressions and Variables
 
@@ -49,7 +49,7 @@ x=x/2
 
 # String Operations:
 
-[Strings](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-1-2-Strings.ipynb){target="_blank"}
+[Strings](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-1-2-Strings.ipynb)
 
 ## Practice Quiz: String Operations
 
