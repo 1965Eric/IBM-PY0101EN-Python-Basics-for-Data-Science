@@ -63,3 +63,7 @@ Question 7: What is the result of the following: ```"Hello Mike".split()```
 - B. [ ] ```["HelloMike"]```
 - C. [X] ```["Hello","Mike"]```
 
+# Dictionaries
+
+[Dictionaries]
+
