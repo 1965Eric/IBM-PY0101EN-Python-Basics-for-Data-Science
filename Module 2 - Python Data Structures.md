@@ -105,3 +105,32 @@ Question 4: What is the result of the following operation: ```{'a','b'} & {'a'}`
 - A. [ ] ```{'a','b'}```
 - B. [X] ```{'a}```
 
+## Graded Quiz: Python Data Structures
+
+Question 1: Consider the tuple ```tuple1=("A","B","C" )```, what is the result of the following operation ```tuple1[-1]```?
+- A. [ ] ```"A"```
+- B. [X] ```"C"```
+- C. [ ] ```"B"```
+
+Question 2: Consider the tuple ```A=((1),[2,3],[4])```, that contains a tuple and list. What is the result of the following operation ```A[2]```?
+- A. [ ] ```[2,3]```
+- B. [X] ```[4]```
+- C. [ ] ```1```
+
+Question 3: Consider the following dictionary: ```{ "The Bodyguard":"1992", "Saturday Night Fever":"1977" }```
+
+Select the values
+
+- A. [X] ```"1977"```
+- B. [X] ```"1992"```
+- C. [ ] ```"The Bodyguard"```
+- D. [ ] ```"Saturday Night Fever"```
+
+Question 4: The variable ```release_year_dict``` is a Python Dictionary, what is the result of applying the following method: ```release_year_dict.keys()```?
+
+- A. [X] retrieve the keys of the dictionary
+- B. [ ] retrieves, the values of the dictionary
+
+Question 5: What is the result of the following: ```'1' in {'1','2'}```?
+- A. [X] True
+- B. [ ] False
