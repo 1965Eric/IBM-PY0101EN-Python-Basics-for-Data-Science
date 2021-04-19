@@ -72,4 +72,6 @@ Question 7: hat is the result of the following: ```True or False```
 
 # Loops
 
+[Loops](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-3-2-Loops.ipynb)
+
 
