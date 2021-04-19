@@ -15,4 +15,5 @@ In this lesson you will learn about:
 
 [Conditions and Branching](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-3-1-Conditions.ipynb)
 
+## Practice Quiz: Python Programming Fundamentals
 
