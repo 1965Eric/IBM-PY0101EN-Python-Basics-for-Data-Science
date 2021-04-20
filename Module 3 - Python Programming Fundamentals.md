@@ -74,4 +74,91 @@ Question 7: hat is the result of the following: ```True or False```
 
 [Loops](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-3-2-Loops.ipynb)
 
+## Practice Quiz: Loops
+
+Question 1: What will be the output of the following: 
+
+```
+for x in range(0,3): 
+
+print(x)
+``` 
+
+- A. [ ] 
+
+```
+0
+
+1
+
+2
+
+3
+```
+
+- B. [X]
+
+```
+0
+
+1
+
+2
+```
+
+Question 2: What is the output of the following: 
+
+```
+for x in ['A','B','C']: 
+
+print(x+'A') 
+```
+
+- A. [ ]
+
+```
+A
+
+B
+
+C
+``` 
+
+- B. [X]
+
+```
+AA
+
+BA
+
+CA
+```
+
+Question 3: What is the output of the following: 
+
+```
+for i,x in enumerate(['A','B','C']):
+
+print(i,x) 
+```
+
+- A. [ ]
+
+```
+AA
+
+BB
+
+CC
+```
+
+- B. [X]
+
+```
+0 A
+
+1 B
+
+2 C
+```
 
