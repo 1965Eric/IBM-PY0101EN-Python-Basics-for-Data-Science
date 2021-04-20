@@ -164,4 +164,6 @@ CC
 
 # Functions
 
+[Functions](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-3-3-Functions%20.ipynb)
+
 
