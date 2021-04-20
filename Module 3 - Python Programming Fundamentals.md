@@ -162,3 +162,6 @@ CC
 2 C
 ```
 
+# Functions
+
+
