@@ -166,4 +166,80 @@ CC
 
 [Functions](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-3-3-Functions%20.ipynb)
 
+## Practice Quiz: Functions
 
+Question 1: What does the following function return: ```len(['A','B',1])```?
+
+- A. [ ] ```4```
+- B. [ ] ```2```
+- C. [X] ```3```
+
+Question 2: What does the following function return: ```len([sum([0,0,1])])```?
+
+- A. [ ] ```3```
+- B. [ ] ```0```
+- C. [X] ```1```
+
+Question 3: What is the value of list L after the following code segment is run? 
+
+```
+L=[1,3,2]
+
+sorted(L)
+```
+
+- A. [ ] ```L:[0,0,0]```
+- B. [ ] ```L:[1,2,3]```
+- C. [X] ```L:[1,3,2]```
+
+Question 4: From the video what is the value of c after the following? 
+
+```
+c=add1(2)
+
+c=add1(10)
+```
+
+- A. [ ] ```14```
+- B. [X] ```11```
+- C. [ ] ```3```
+
+Question 5: What is the output of the following lines of code? 
+
+```
+def Print(A):
+
+for a in A:
+
+print(a+'1')
+
+Print(['a','b','c'])
+```
+
+- A. [ ] 
+
+```
+a1
+```
+
+- B. [X] 
+
+```
+a1
+
+b1
+
+c1
+```
+
+- C. [ ]
+
+```
+a
+
+b
+
+c
+```
+
+# Exception Handling
