@@ -275,8 +275,8 @@ Question 1: What is the type of the following? ```["a"]```
 
 Question 2: What does a method do to an object?
 
-- A. [X] Returns a new values.
-- B. [ ] Changes or interacts with the object.
+- A. [ ] Returns a new values.
+- B. [X] Changes or interacts with the object.
 
 Question 3: We create the object: ```Circle(3,'blue')```
 
