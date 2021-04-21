@@ -15,3 +15,5 @@ In this lesson you will learn about:
 
 # Reading Files with Open
 
+[Reading Files with Open](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-4-1-ReadFile.ipynb)
+
