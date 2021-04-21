@@ -246,3 +246,19 @@ c
 
 [Exception Handling](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-3-1.2-ExcecptionHandling.ipynb)
 
+## Practice Quiz: Exception Handling
+
+Question 1: Why do we use exception handlers?
+
+- A. [ ] Terminate a program
+- B. [X] Catch errors within a program
+- C. [ ] Write a file
+- D. [ ] Read a file
+
+Question 2: What is the purpose of a ```try…except``` statement?
+
+- A. [ ] Only executes if one condition is true
+- B. [ ] Crash a program when errors occur
+- C. [ ] Executes the code block only if a certain condition exists
+- D. [X] Catch and handle exceptions when an error occurs
+
