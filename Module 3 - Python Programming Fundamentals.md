@@ -327,3 +327,24 @@ Mike
 
 Question 2
 
+<img width="220" alt="Question_2" src="https://user-images.githubusercontent.com/17474099/115565605-cd2f2300-a2b9-11eb-9f92-2b351a6a4652.png">
+
+- A. [ ]
+
+```
+11
+
+22
+
+33
+```
+
+- B. [X]
+
+```
+2
+
+4
+
+6
+```
