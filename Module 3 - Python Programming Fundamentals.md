@@ -309,3 +309,13 @@ BlueCircle.add_radius(20)
 - B. [ ] ```20```
 - C. [ ] ```10```
 
+## Graded Quiz: Python Programming Fundamentals
+
+Question 1: What value of ```x``` will produce the output? 
+
+```
+Hello
+
+Mike
+```
+
