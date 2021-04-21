@@ -365,7 +365,7 @@ Question 4: Why is the “finally” statement used?
 
 Question 5: Consider the ```class Points```, what are the data attributes?
 
-
+<img width="434" alt="Question_5" src="https://user-images.githubusercontent.com/17474099/115570107-239e6080-a2be-11eb-9efa-3fbb012ef252.png">
 
 - A. [ ] ```__init__```
 - B. [X] ```self.x self.y```
