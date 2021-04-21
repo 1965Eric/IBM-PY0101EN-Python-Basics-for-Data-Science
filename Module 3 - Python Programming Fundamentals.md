@@ -348,3 +348,11 @@ Question 2
 
 6
 ```
+
+Question 3: Consider the function step, when will the function return a value of ```1```?
+
+
+
+- A. [ ] if ```x``` is equal to or less then zero
+- B. [X] if ```x``` is larger than 0
+- C. [ ] if ```x``` is less than zero
