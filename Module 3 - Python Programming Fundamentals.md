@@ -356,3 +356,18 @@ Question 3: Consider the function step, when will the function return a value of
 - A. [ ] if ```x``` is equal to or less then zero
 - B. [X] if ```x``` is larger than 0
 - C. [ ] if ```x``` is less than zero
+
+Question 4: Why is the “finally” statement used?
+
+- A. [ ] Only execute the remaining code if an error occurs
+- B. [X] Execute the remaining code no matter the end result
+- C. [ ] Only execute the remaining code if one condition is false
+
+Question 5: Consider the ```class Points```, what are the data attributes?
+
+
+
+- A. [ ] ```__init__```
+- B. [X] ```self.x self.y```
+- C. [ ] ```print_point```
+
