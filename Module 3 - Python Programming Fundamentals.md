@@ -319,3 +319,11 @@ Hello
 Mike
 ```
 
+<img width="386" alt="Question1" src="https://user-images.githubusercontent.com/17474099/115565169-71fd3080-a2b9-11eb-89c3-39d459cf1513.png">
+
+- A. [ ] ```x=A```
+- B. [X] ```x="A"```
+- C. [ ] ```x=1```
+
+Question 2
+
