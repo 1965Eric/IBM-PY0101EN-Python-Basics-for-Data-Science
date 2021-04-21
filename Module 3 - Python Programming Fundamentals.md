@@ -244,7 +244,7 @@ c
 
 # Exception Handling
 
-[Exception Handling](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-3-1.2-ExcecptionHandling.ipynb)
+[Exception Handling](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-3-1.2-ExceptionHandling.ipynb)
 
 ## Practice Quiz: Exception Handling
 
