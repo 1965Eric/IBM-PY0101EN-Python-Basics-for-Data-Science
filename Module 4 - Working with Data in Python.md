@@ -20,3 +20,33 @@ In this lesson you will learn about:
 # Writing Files with Open
 
 [Writing Files with Open]
+
+## Practice Quiz: Reading & Writing Files with Open
+
+Question 1: What are the most common modes used when opening a file?
+
+(a)ppend, (c)lose, (w)rite
+(s)ave, (r)ead, (w)rite
+(a)ppend, (r)edline, (w)rite
+(a)ppend, (r)ead, (w)rite
+
+Question 2: What is the data attribute that will return the title of the file?
+
+File1.open()
+File1.close()
+File1.mode
+File1.name
+
+Question 3: What is the command that tells Python to begin a new line?
+
+\q
+\b
+\e
+\n
+
+Question 4: What attribute is used to input data into a file?
+
+File1.close()
+File1.read()
+File1.open()
+File1.write()
