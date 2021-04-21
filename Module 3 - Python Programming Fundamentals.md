@@ -264,4 +264,6 @@ Question 2: What is the purpose of a ```try…except``` statement?
 
 # Objects and Classes
 
-[Objects and Classes]
+[Objects and Classes](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-3-4-Classes.ipynb)
+
+
