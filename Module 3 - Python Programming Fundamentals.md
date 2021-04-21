@@ -363,7 +363,7 @@ Question 4: Why is the “finally” statement used?
 - B. [X] Execute the remaining code no matter the end result
 - C. [ ] Only execute the remaining code if one condition is false
 
-Question 5: Consider the ```class Points```, what are the data attributes?
+Question 5: Consider the ```class Point```, what are the data attributes?
 
 <img width="434" alt="Question_5" src="https://user-images.githubusercontent.com/17474099/115570107-239e6080-a2be-11eb-9efa-3fbb012ef252.png">
 
