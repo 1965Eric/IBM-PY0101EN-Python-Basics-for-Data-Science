@@ -351,7 +351,7 @@ Question 2
 
 Question 3: Consider the function step, when will the function return a value of ```1```?
 
-
+<img width="393" alt="Question_3" src="https://user-images.githubusercontent.com/17474099/115566413-83930800-a2ba-11eb-9b8c-fd354c4afb9c.png">
 
 - A. [ ] if ```x``` is equal to or less then zero
 - B. [X] if ```x``` is larger than 0
