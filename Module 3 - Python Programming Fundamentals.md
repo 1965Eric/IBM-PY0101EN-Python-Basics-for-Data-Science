@@ -262,3 +262,6 @@ Question 2: What is the purpose of a ```try…except``` statement?
 - C. [ ] Executes the code block only if a certain condition exists
 - D. [X] Catch and handle exceptions when an error occurs
 
+# Objects and Classes
+
+[Objects and Classes]
