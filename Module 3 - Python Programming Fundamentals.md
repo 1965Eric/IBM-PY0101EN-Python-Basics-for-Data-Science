@@ -266,4 +266,46 @@ Question 2: What is the purpose of a ```try…except``` statement?
 
 [Objects and Classes](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-3-4-Classes.ipynb)
 
+## Practice Quiz: Objects and Classes
+
+Question 1: What is the type of the following? ```["a"]```
+
+- A. [X] ```list```
+- B. [ ] ```str```
+
+Question 2: What does a method do to an object?
+
+- A. [X] Returns a new values.
+- B. [ ] Changes or interacts with the object.
+
+Question 3: We create the object: ```Circle(3,'blue')```
+
+What is the color attribute set to?
+
+- A. [X] ```'blue'```
+- B. [ ] ```2```
+
+Question 4: What is the radius attribute after the following code block is run? 
+
+```
+RedCircle=Circle(10,'red') 
+
+RedCircle.radius=1
+```
+
+- A. [ ] ```'red'```
+- B. [X] ```1```
+- C. [ ] ```10```
+
+Question 5: What is the radius attribute after the following code block is run?
+
+```
+BlueCircle=Circle(10,'blue') 
+
+BlueCircle.add_radius(20) 
+```
+
+- A. [X] ```30```
+- B. [ ] ```20```
+- C. [ ] ```10```
 
