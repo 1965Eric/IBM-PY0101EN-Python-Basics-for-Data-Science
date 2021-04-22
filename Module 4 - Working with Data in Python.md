@@ -75,3 +75,4 @@ Question 3: What is the proper way to load a CSV file using pandas?
 - C. [X] ```pandas.read_csv(‘data.csv’)```
 - D. [ ] ```pandas.from_csv(‘data.csv’)```
 
+![PandasPracQuizQ4](https://user-images.githubusercontent.com/17474099/115770753-5ecb8d00-a3ad-11eb-82ed-5d7cdc467acb.png)
