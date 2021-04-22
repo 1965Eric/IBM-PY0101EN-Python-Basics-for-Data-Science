@@ -53,4 +53,6 @@ Question 4: What attribute is used to input data into a file?
 
 # Pandas with IBM Watson Studio
 
-[Loading Data, saving Data and working with Pandas]
+[Loading data, saving data and working with Pandas](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-4-3-LoadData.ipynb)
+
+
