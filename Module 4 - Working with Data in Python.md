@@ -76,3 +76,25 @@ Question 3: What is the proper way to load a CSV file using pandas?
 - D. [ ] ```pandas.from_csv(‘data.csv’)```
 
 ![PandasPracQuizQ4](https://user-images.githubusercontent.com/17474099/115770753-5ecb8d00-a3ad-11eb-82ed-5d7cdc467acb.png)
+
+Question 4: Use this dataframe to answer the question. How would you select the Genre disco?
+
+- A. [ ] ```df.loc[‘Bee Gees’, ‘Genre’]```
+- B. [ ] ```df.loc[6, 5]```
+- C. [X] ```df.iloc[6, 4]```
+- D. [ ] ```df.iloc[6, ‘genre’]```
+
+Question 5: Use this dataframe to answer the question. Which will NOT evaluate to ```20.6```, select all that apply?
+
+- A. [ ] ```df.iloc[4,5]```
+- B. [ ] ```df.iloc[6,5]```
+- C. [X] ```df.loc[4,’Music Recording Sales’]```
+- D. [X] ```df.iloc[6, ‘Music Recording Sales (millions)’]```
+
+Question 6: Use this dataframe to answer the question. How do we select Albums The Dark Side of the Moon to Their Greatest Hits (1971-1975)? Select all that apply.
+
+- A. [ ] ```df.iloc[2:5, ‘Album’]```
+- B. [ ] ```df.loc[2:5, ‘Album’]```
+- C. [X] ```df.iloc[2:6, 1]```
+- D. [ ] ```df.loc[2:5, 1]```
+
