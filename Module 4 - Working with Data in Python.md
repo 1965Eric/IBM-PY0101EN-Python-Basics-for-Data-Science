@@ -55,4 +55,23 @@ Question 4: What attribute is used to input data into a file?
 
 [Loading data, saving data and working with Pandas](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-4-3-LoadData.ipynb)
 
+## Practice Quiz: Pandas
+
+Question 1: What python object do you cast to a dataframe?
+
+- A. [X] Dictionary
+- B. [ ] Set
+
+Question 2: How would you access the first-row and first column in the dataframe ```df```?
+
+- A. [ ] ```df.ix[1,0]```
+- B. [ ] ```df.ix[0,1]```
+- C. [X] ```df.ix[0,0]```
+
+Question 3: What is the proper way to load a CSV file using pandas?
+
+- A. [ ] ```pandas.import_csv(‘data.csv’)```
+- B. [ ] ```pandas.load_csv(‘data.csv’)```
+- C. [X] ```pandas.read_csv(‘data.csv’)```
+- D. [ ] ```pandas.from_csv(‘data.csv’)```
 
