@@ -51,4 +51,6 @@ Question 4: What attribute is used to input data into a file?
 - C. [ ] ```File1.open()```
 - D. [X] ```File1.write()```
 
+# Pandas with IBM Watson Studio
 
+[Loading Data, saving Data and working with Pandas]
