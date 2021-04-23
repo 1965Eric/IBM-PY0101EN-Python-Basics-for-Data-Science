@@ -98,3 +98,5 @@ Question 6: Use this dataframe to answer the question. How do we select Albums T
 - C. [X] ```df.iloc[2:6, 1]```
 - D. [ ] ```df.loc[2:5, 1]```
 
+# One Dimensional NumpPy
+
