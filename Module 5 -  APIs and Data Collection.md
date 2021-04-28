@@ -16,4 +16,6 @@ This module delves into the unique ways to collect data by the use of APIs and w
 
 [Watson Speech to Text and Language Translator API](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-5.2_API_2.ipynb)
 
+## Practice Quiz: Simple APIs
+
 
