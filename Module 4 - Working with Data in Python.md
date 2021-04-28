@@ -106,3 +106,33 @@ Question 6: Use this dataframe to answer the question. How do we select Albums T
 
 [Two dimensional NumPy](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-5-2-Numpy2D.ipynb)
 
+## Practice Quiz: Numpy in Python
+
+Question 1: What is the Python library used for scientific computing and is a basis for Pandas?
+
+- A. [ ] datetime
+- B. [ ] Requests
+- C. [ ] Tkinter
+- D. [X] Numpy
+
+Question 2: What attribute is used to retrieve the number of elements in an array?
+
+- A. [ ] ```a.dtype```
+- B. [ ] ```a.ndim```
+- C. [ ] ```a.shape```
+- D. [X] ```a.size```
+
+Question 3: How would you change the first element to "10" in this array? ```c:array([100,1,2,3,0])```
+
+- A. [ ] ```c[4]=10```
+- B. [ ] ```c[2]=10```
+- C. [ ] ```c[1]=10```
+- D. [X] ```c[0]=10```
+
+Question 4: What attribute is used to return the number of dimensions in an array?
+
+- A. [ ] ```a.dtype```
+- B. [ ] ```a.size```
+- C. [ ] ```a.shape```
+- D. [X] ```a.ndim```
+
