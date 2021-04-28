@@ -136,3 +136,17 @@ Question 4: What attribute is used to return the number of dimensions in an arra
 - C. [ ] ```a.shape```
 - D. [X] ```a.ndim```
 
+## Graded Quiz: Working with Data in Python
+
+Question 1: Consider the following text file: ```Example1.txt```: 
+
+```
+This is line 1 
+
+This is line 2 
+
+This is line 3
+```
+
+What is the output of the following lines of code?
+
