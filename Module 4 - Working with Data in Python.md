@@ -104,3 +104,5 @@ Question 6: Use this dataframe to answer the question. How do we select Albums T
 
 # Two Dimensional NumPy
 
+[Two dimensional NumPy](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-5-2-Numpy2D.ipynb)
+
