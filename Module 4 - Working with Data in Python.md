@@ -208,3 +208,9 @@ Question 4: Consider the dataframe ```df```. How would you access the element in
 
 Question 5: What is the result of the following lines of code?
 
+<img width="349" alt="mod4q5" src="https://user-images.githubusercontent.com/17474099/116420559-5d331680-a83e-11eb-89e9-46171bf7a5a9.png">
+
+- A. [ ] ```0```
+- B. [X] ```array([0, 0, 0, 0, 0])]```
+- C. [ ] ```array([1, 1, 1, 1, 1])```
+
