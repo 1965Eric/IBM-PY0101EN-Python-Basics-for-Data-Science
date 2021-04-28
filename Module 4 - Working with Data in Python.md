@@ -150,3 +150,61 @@ This is line 3
 
 What is the output of the following lines of code?
 
+<img width="611" alt="mod4q1" src="https://user-images.githubusercontent.com/17474099/116419186-185ab000-a83d-11eb-81b6-e4200c57c8cc.png">
+
+- A. [ ]
+
+```
+This is line 1 
+
+This is line 2 
+
+This is line 3
+```
+
+- B. [X]
+
+```This is line 1```
+
+- C. [ ]
+
+```
+This is line 1 
+
+This is line 2
+```
+
+Question 2: Consider the file object: ```File1```. How would you read the first line of text?
+
+- A. [ ]
+
+```
+File1.readline ()
+
+File1.readline ()
+```
+ 
+- B. [X]
+
+```File1.readline ()```
+
+- C. [ ]
+
+```
+File1.read ()
+```
+
+Question 3: What is the result of applying the following method ```df.head()```, to the dataframe ```df``` ?
+
+- A. [ ] prints the first column of the dataframe
+- B. [X] prints the first 5 rows of the dataframe
+- C. [ ] prints the first 100 rows of the dataframe
+
+Question 4: Consider the dataframe ```df```. How would you access the element in the 1st row 3rd column? ?
+
+- A. [ ] ```df.iloc[2,0]```
+- B. [X] ```df.iloc[0,2]```
+- C. [ ] ```df.iloc[1,3]```
+
+Question 5: What is the result of the following lines of code?
+
