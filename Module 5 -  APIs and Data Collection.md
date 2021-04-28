@@ -10,3 +10,6 @@ This module delves into the unique ways to collect data by the use of APIs and w
 * Learn the basics of webscraping
 * Work with different file formats
 
+# Introduction to API
+
+[Simple API]
