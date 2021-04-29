@@ -18,4 +18,24 @@ This module delves into the unique ways to collect data by the use of APIs and w
 
 ## Practice Quiz: Simple APIs
 
+Question 1: What does API stand for?
+
+- A. [ ] Application Process Interface
+- B. [ ] Automatic Program Interaction
+- C. [X] Application Programming Interface
+- D. [ ] Application Programming Interaction
+
+Question 2: The chart used to plot the cryptocurrency data in the lab is a...
+
+- A. [ ] Point and Figure Chart
+- B. [X] Candlestick Chart
+- C. [ ] Pole Chart
+- D. [ ] Line Chart
+
+Question 3: What information are we trying to find for each day in the lab for the chart?
+
+- A. [ ] Open (Last), High (Max), Low (Min), Close (First)
+- B. [ ] Open (Max), High (First), Low (Last), Close (Min)
+- C. [ ] Open (Min), High (First), Low (Max), Close (Last)
+- D. [X] Open (First), High (Max), Low (Min), Close (Last)
 
