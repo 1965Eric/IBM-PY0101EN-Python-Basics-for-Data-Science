@@ -39,3 +39,5 @@ Question 3: What information are we trying to find for each day in the lab for t
 - C. [ ] Open (Min), High (First), Low (Max), Close (Last)
 - D. [X] Open (First), High (Max), Low (Min), Close (Last)
 
+# Access REST APIs & Request HTTP
+
