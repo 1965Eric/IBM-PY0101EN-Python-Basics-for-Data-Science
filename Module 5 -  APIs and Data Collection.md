@@ -43,4 +43,6 @@ Question 3: What information are we trying to find for each day in the lab for t
 
 [Access REST APIs & Request HTTP](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-5.3_Requests_HTTP.ipynb)
 
+# Web Scraping
 
+[Web Scraping]
