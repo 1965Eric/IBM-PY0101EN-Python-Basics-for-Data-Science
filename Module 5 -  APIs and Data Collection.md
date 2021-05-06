@@ -50,3 +50,33 @@ Question 3: What information are we trying to find for each day in the lab for t
 # Working with different file formats
 
 [Working with different file formats]
+
+## Practice Quiz: REST APIs, Webscraping, and Working with Files
+
+Question 1: What is the function of "GET" in HTTP requests?
+
+- A. [ ] Deletes a specific resource
+- B. [ ] Returns the response from the client to the requestor
+- C. [ ] Sends data to create or update a resource
+- D. [X] Carries the request to the client from the requestor
+
+Question 2: What does URL stand for?
+
+- A. [ ] Uniform Resource Learning
+- B. [X] Uniform Resource Locator
+- C. [ ] Unilateral Resistance Locator
+- D. [ ] Uniform Request Location
+
+Question 3: What does the file extension “csv” stand for?
+
+- A. [ ] Comma Serrated Values
+- B. [ ] Comma Separation Valuations
+- C. [ ] Common Separated Variables
+- D. [X] Comma Separated Values
+
+Question 4: What is webscraping?
+
+- A. [ ] The process to display all data within a URL.
+- B. [ ] The process to request and retrieve information from a client.
+- C. [ ] The process to describe communication options.
+- D. [X] The process to extract data from a particular website.
