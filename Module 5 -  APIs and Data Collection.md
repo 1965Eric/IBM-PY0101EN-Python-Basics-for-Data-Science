@@ -45,4 +45,5 @@ Question 3: What information are we trying to find for each day in the lab for t
 
 # Web Scraping
 
-[Web Scraping]
+[Web Scraping](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/WebScraping_Review_Lab.ipynb)
+
