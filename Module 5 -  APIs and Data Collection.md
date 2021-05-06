@@ -80,3 +80,41 @@ Question 4: What is webscraping?
 - B. [ ] The process to request and retrieve information from a client.
 - C. [ ] The process to describe communication options.
 - D. [X] The process to extract data from a particular website.
+
+## Graded Quiz: Working with Numpy Arrays
+
+Question 1: What does REST stand for?
+
+- A. [ ] Response Expectation Style
+- B. [ ] Response Situation Transfer
+- C. [ ] Representational Expectation State Transfer
+- D. [X] Representational State Transfer
+- E. [ ] Response Expectation System Transformation
+
+Question 2: In what data structure do HTTP responses generally return?
+
+- A. [ ] Lists
+- B. [ ] Tuples
+- C. [ ] Nested Lists
+- D. [X] JSON
+
+Question 3: What are the 3 parts to a URL?
+
+- A. [ ] Block, post, and route
+- B. [ ] Put, route, and get
+- C. [ ] Get, post, and scheme
+- D. [X] Scheme, internet address, and route
+
+Question 4: What are the 3 parts to a response message?
+
+- A. [ ] Bookmarks, history, and security
+- B. [ ] Encoding, body, and cache
+- C. [ ] HTTP headers, blank line, and body
+- D. [X] Start or status line, header, and body
+
+Question 5: What is the purpose of this line of code ```"table_row=table.find_all(name=’tr’)"``` used in webscraping?
+
+- A. [ ] It will find all of the data within the table marked with a tag ```“a”```
+- B. [ ] It will find all of the data within the table marked with a tag ```“p”```
+- C. [ ] It will find all of the data within the table marked with a tag ```“h1”```
+- D. [X] It will find all of the data within the table marked with a tag ```“tr”```
