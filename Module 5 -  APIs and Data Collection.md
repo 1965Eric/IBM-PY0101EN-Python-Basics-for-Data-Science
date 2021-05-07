@@ -49,7 +49,7 @@ Question 3: What information are we trying to find for each day in the lab for t
 
 # Working with different file formats
 
-[Working with different file formats]
+[Working with different file formats](https://github.com/1965Eric/IBM-PY0101EN-Python-Basics-for-Data-Science/blob/main/PY0101EN-5.4_WorkingWithDifferentFileTypes.ipynb)
 
 ## Practice Quiz: REST APIs, Webscraping, and Working with Files
 
