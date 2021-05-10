@@ -65,7 +65,7 @@ go see Meat Loaf
 move on
 ```
 
-Question 7: hat is the result of the following: ```True or False```
+Question 7: what is the result of the following: ```True or False```
 
 - A. [ ] ```False```
 - B. [X] ```True```, an ```or``` statement is only False if all the Boolean values are False.
