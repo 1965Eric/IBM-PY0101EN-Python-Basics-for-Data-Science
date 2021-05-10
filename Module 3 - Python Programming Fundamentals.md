@@ -189,8 +189,8 @@ sorted(L)
 ```
 
 - A. [ ] ```L:[0,0,0]```
-- B. [ ] ```L:[1,2,3]```
-- C. [X] ```L:[1,3,2]```
+- B. [X] ```L:[1,2,3]```
+- C. [ ] ```L:[1,3,2]```
 
 Question 4: From the video what is the value of c after the following? 
 
