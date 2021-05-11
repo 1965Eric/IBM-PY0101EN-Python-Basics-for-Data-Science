@@ -94,7 +94,7 @@ Question 5: Use this dataframe to answer the question. Which will NOT evaluate t
 Question 6: Use this dataframe to answer the question. How do we select Albums The Dark Side of the Moon to Their Greatest Hits (1971-1975)? Select all that apply.
 
 - A. [ ] ```df.iloc[2:5, ‘Album’]```
-- B. [ ] ```df.loc[2:5, ‘Album’]```
+- B. [X] ```df.loc[2:5, ‘Album’]```
 - C. [X] ```df.iloc[2:6, 1]```
 - D. [ ] ```df.loc[2:5, 1]```
 
