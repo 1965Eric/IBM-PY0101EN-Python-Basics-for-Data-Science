@@ -10,7 +10,7 @@ This course can be applied to multiple Specialization or Professional Certificat
 
 [IBM Applied AI Professional Certificate](https://www.edx.org/professional-certificate/ibm-applied-ai) 
 
-[Python Data Science Professional Certificate](https://www.edx.org/professional-certificate/python-data-science)
+[Python Data Science Professional Certificate](https://www.edx.org/professional-certificate/ibm-python-data-science)
 
 [IBM Data Science Professional Certificate](https://www.edx.org/professional-certificate/ibm-data-science) 
 
