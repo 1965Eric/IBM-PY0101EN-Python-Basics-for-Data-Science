@@ -14,7 +14,7 @@ This course can be applied to multiple Specialization or Professional Certificat
 
 [IBM Data Science Professional Certificate](https://www.edx.org/professional-certificate/ibm-data-science) 
 
-[IBM Data Analyst Professional Certificate](https://www.edx.org/professional-certificate/ibm-data-analyst)
+[IBM Data Analyst Professional Certificate](https://www.edx.org/professional-certificate/ibm-dataanalyst)
 
 [Full Stack Cloud Developer Professional Certificate](https://www.edx.org/professional-certificate/ibm-full-stack-cloud-developer)
 
