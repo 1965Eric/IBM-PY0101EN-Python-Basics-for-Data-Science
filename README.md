@@ -8,13 +8,13 @@ By the end of this course, you’ll feel comfortable creating basic programs, wo
 
 This course can be applied to multiple Specialization or Professional Certificate programs. Completing this course will count towards your learning in any of the following programs: 
 
-[IBM Applied AI Professional Certificate](https://www.edx.org/professional-certificate/ibm-applied-ai) 
+[Applied AI Professional Certificate](https://www.edx.org/professional-certificate/ibm-applied-ai) 
 
 [Python Data Science Professional Certificate](https://www.edx.org/professional-certificate/ibm-python-data-science)
 
-[IBM Data Science Professional Certificate](https://www.edx.org/professional-certificate/ibm-data-science) 
+[Data Science Professional Certificate](https://www.edx.org/professional-certificate/ibm-data-science) 
 
-[IBM Data Analyst Professional Certificate](https://www.edx.org/professional-certificate/ibm-dataanalyst)
+[Data Analyst Professional Certificate](https://www.edx.org/professional-certificate/ibm-dataanalyst)
 
 [Full Stack Cloud Developer Professional Certificate](https://www.edx.org/professional-certificate/ibm-full-stack-cloud-developer)
 
