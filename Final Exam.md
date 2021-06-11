@@ -170,3 +170,11 @@ Question 22: What is the 404 status code?
 - C. [X] Not found
 - D. [ ] OK
 
+Question 23: What is the value of ```Z``` after the following code is run? 
+
+![Final_Exam_-_Question_23](https://user-images.githubusercontent.com/17474099/121709895-505e3f80-cad9-11eb-91b6-54cfed84b6da.jpg)
+
+- A. [ ] ```array([[3,1],[1,3] ])```
+- B. [ ] ```array([[2,0],[1,0]])```
+- C. [X] ```array([[2,1],[1,2] ])```
+
