@@ -142,3 +142,31 @@ Question 18: What is the result of the following lines of code?
 
 Question 19: Consider the following line of code: 
 
+![Final_Exam_-_Question_19](https://user-images.githubusercontent.com/17474099/121709041-6d464300-cad8-11eb-8a77-bade4504dd00.jpg)
+
+What mode is the file object in?
+
+- A. [ ] append
+- B. [X] write
+- C. [ ] read
+
+Question 20: How do you perform matrix multiplication on the numpy arrays ```A``` and ```B```?
+
+- A. [ ] ```A+B```
+- B. [ ] ```A*B```
+- C. [X] ```np.dot(A,B)```
+
+Question 21: The Python library we used to plot the chart in the lab is
+
+- A. [ ] PyCoinGecko
+- B. [X] Plotly
+- C. [ ] Pandas
+- D. [ ] MatPlotLib
+
+Question 22: What is the 404 status code?
+
+- A. [ ] Bad Request
+- B. [ ] Unauthorized
+- C. [X] Not found
+- D. [ ] OK
+
