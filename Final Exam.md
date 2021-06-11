@@ -178,3 +178,41 @@ Question 23: What is the value of ```Z``` after the following code is run?
 - B. [ ] ```array([[2,0],[1,0]])```
 - C. [X] ```array([[2,1],[1,2] ])```
 
+Question 24: What is the output of the following? 
+
+![Final_Exam_-_Question_24](https://user-images.githubusercontent.com/17474099/121710249-b64ac700-cad9-11eb-9a76-d6f23c18bdf3.jpg)
+
+- A. [ ]
+
+```
+2
+```
+
+- B. [X]
+
+```
+1
+
+3
+
+4
+```
+
+- C. [ ]
+ 
+```
+1
+
+2
+
+3
+
+4
+```
+
+Question 25: What is the result of the following: len(("disco",10)) ?
+
+- A. [ ] ```5```
+- B. [ ] ```6```
+- C. [X] ```2```
+
