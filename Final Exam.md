@@ -54,3 +54,12 @@ Question 10: How do you cast the list ```A``` to the set ```a```?
 - B. [X] ```a=set(A)```
 - C. [ ] ```shuffle="true```
 
+Question 11: What is the result of the following lines of code?
+
+![Final_Exam_-_Question_11](https://user-images.githubusercontent.com/17474099/121704865-6e757100-cad4-11eb-8637-e953274d2614.jpg)
+
+- A. [X] True
+- B. [ ] False
+
+Question 12: What is the output of the following few lines of code?
+
