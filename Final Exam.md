@@ -134,3 +134,11 @@ Question 17: What function would you use to load a csv file in Pandas?
 
 Question 18: What is the result of the following lines of code?
 
+![Final_Exam_-_Question_18](https://user-images.githubusercontent.com/17474099/121708674-1e001280-cad8-11eb-917b-397c7eeeeffd.jpg)
+
+- A. [ ] ```array([1,1,1,1,1])```
+- B. [X] ```array([11, 11, 11, 11, 11])```
+- C. [ ] ```array([10,10,10,10,10])```
+
+Question 19: Consider the following line of code: 
+
