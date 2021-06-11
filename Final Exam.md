@@ -63,3 +63,49 @@ Question 11: What is the result of the following lines of code?
 
 Question 12: What is the output of the following few lines of code?
 
+![Final_Exam_-_Question_12](https://user-images.githubusercontent.com/17474099/121705268-c57b4600-cad4-11eb-9595-e84276661bbf.jpg)
+
+- A. [X]
+
+```
+1 A
+
+2 B
+
+3 C
+```
+
+- B. [ ]
+
+```
+0 A
+
+1 B
+
+2 C
+```
+
+- C. [ ]
+
+```
+0 AA
+
+1 BB
+
+2 CC
+```
+
+Question 13. What is the correct way to sort list ```'B'``` using a method? The result should not return a new list, just change the list ```'B'```.
+
+- A. [ ] ```B.sorted()```
+- B. [ ] ```sort(B)```
+- C. [ ] ```sorted(B)```
+- D. [X] ```B.sort()```
+
+Question 14: Why is it best practice to have multiple except statements with each type of error labeled correctly?
+
+- A. [ ] It is not necessary to label errors
+- B. [X] In order to know what type of error was thrown and the location within the program
+- C. [ ] To skip over certain blocks of code during execution
+- D. [ ] Ensure the error is caught so the program will terminate
+
