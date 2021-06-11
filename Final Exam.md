@@ -119,3 +119,18 @@ Question 15: What is the result of running the following lines of code?
 
 Question 16: Consider the following line of code:
 
+![Final_Exam_-_Question_16](https://user-images.githubusercontent.com/17474099/121707295-b39aa280-cad6-11eb-8499-368dd295f0d7.jpg)
+
+What mode is the file object in?
+
+- A. [ ] append
+- B. [X] read
+- C. [ ] write
+
+Question 17: What function would you use to load a csv file in Pandas?
+
+- A. [X] ```pd.read_csv```
+- B. [ ] ```pd.read_excel```
+
+Question 18: What is the result of the following lines of code?
+
