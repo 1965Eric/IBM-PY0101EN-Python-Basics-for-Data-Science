@@ -109,3 +109,13 @@ Question 14: Why is it best practice to have multiple except statements with eac
 - C. [ ] To skip over certain blocks of code during execution
 - D. [ ] Ensure the error is caught so the program will terminate
 
+Question 15: What is the result of running the following lines of code? 
+
+![Final_Exam_-_Question_15](https://user-images.githubusercontent.com/17474099/121706778-3c650e80-cad6-11eb-83f9-d2b5cb357ddb.jpg)
+
+- A. [X] ```x=1 y=1```
+- B. [ ] ```x=2 y=2```
+- C. [ ] ```x=1 y=2```
+
+Question 16: Consider the following line of code:
+
